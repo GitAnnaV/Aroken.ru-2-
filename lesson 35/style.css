@@ -1,0 +1,26 @@
+table {
+    font-family: 'Arial', serif;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td {
+    padding: 2px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    padding: 4px;
+    border: 1px solid black;
+}
+
+caption {
+    font-weight: 600;
+    border: 1px solid black;
+    border-bottom: 0;
+}
+
+.weekend {
+    color: red;
+}
